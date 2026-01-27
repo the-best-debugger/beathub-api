@@ -1,0 +1,22 @@
+{
+  "name": "beathub-api",
+  "version": "1.0.0",
+  "description": "Welcome to the backend of BeatHub.\r - Status: Initial Setup\r - Developer: The Best Debugger",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-best-debugger/beathub-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/the-best-debugger/beathub-api/issues"
+  },
+  "homepage": "https://github.com/the-best-debugger/beathub-api#readme"
+}
